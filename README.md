@@ -1,6 +1,6 @@
 ## Hey there 🫰 I'm Ricardo Picazzo
 
-![Brown and Gray Simple Personal LinkedIn Banner]()
+![Brown and Gray Simple Personal LinkedIn Banner](https://github.com/DenkaSaegusa/Simple-Banner/blob/main/P%20(2).png?raw=true)
 
 Hello, I'm Ricardo. a software engineer from Mexico with a great passion for financial markets, data analysis, new business development and of course... video games
 
