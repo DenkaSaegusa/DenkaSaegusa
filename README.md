@@ -1,9 +1,25 @@
-<h1 align="center">Hey there🫰 I'm Ricardo Picazzo</h1>
-<h3 align="center">A software engineer from Mexico with a great passion for financial markets, data analysis, new business development and of course... video games</h3>
+## Hey there 🫰 I'm Ricardo Picazzo
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+![Brown and Gray Simple Personal LinkedIn Banner]()
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+Hello, I'm Ricardo. a software engineer from Mexico with a great passion for financial markets, data analysis, new business development and of course... video games
+
+- Data analysis with Python and python libraries such as Pandas and Matplot
+- Querying data using SQL.
+- Generate reports and perform ad-hoc data analysis.
+- Developing dashboards on Tableau and PowerBi.
+- Data analysis and reporting using Google Sheets and Excel.
+
+### 📚 Projects
+
+Welcome to my portfolio, where I showcase my [projects](https://github.com/DenkaSaegusa?tab=projects).
+
+### 🛠️ Tools
+
+- Language: SQL, Python, C
+- Database: MySQL
+- Visualization: Tableau, PowerBi
+
+### 👋🏻 Connect with Me
+
+- [Linkedin](https://www.linkedin.com/in/ricardo-picazzo-552630142/)
